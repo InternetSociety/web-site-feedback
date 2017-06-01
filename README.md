@@ -20,7 +20,18 @@ The feedback we seek right now includes questions such as:
 * Does the overall design work for you in your region?
 * What do you like/dislike about what you see so far?
 
-Many technical aspects of the site will be changing, including the URL structure, menu structure and more.
+Many technical aspects of the site will be changing as will much of the content. 
+
+Known issues include:
+
+* Most links do not work.
+* Many more pages need to be added.
+* The URL structure will change.
+* The items in the menus will change slightly as we adjust them.
+* Images have not yet been optimized for low-bandwidth connections.
+* The mobile interfaces need further development.
+
+This initial beta period is primarily to receive feedback on the overall design direction. We appreciate any thoughts you have on the work so far.
 
 ## Future Beta Periods
 
