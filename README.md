@@ -31,6 +31,8 @@ Known issues include:
 * Images have not yet been optimized for low-bandwidth connections.
 * The mobile interfaces need further development.
 
+See the [KNOWN-ISSUES](KNOWN-ISSUES.md) file for an ongoing list.
+
 This initial beta period is primarily to receive feedback on the overall design direction. We appreciate any thoughts you have on the work so far.
 
 ## Future Beta Periods
