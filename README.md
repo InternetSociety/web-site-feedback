@@ -20,7 +20,7 @@ The feedback we seek right now includes questions such as:
 * Does the overall design work for you in your region?
 * What do you like/dislike about what you see so far?
 
-Many technical aspects of the site will be changing, including the URL structure
+Many technical aspects of the site will be changing, including the URL structure, menu structure and more.
 
 ## Future Beta Periods
 
