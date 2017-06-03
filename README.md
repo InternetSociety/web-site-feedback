@@ -32,6 +32,8 @@ Known issues include:
 * The mobile interfaces need further development.
 * Accessibility testing has not yet been performed.
 * Social media sharing icons do not appear on the left side of pages. (They will!)
+* The filtering function on the news page is not yet implemented.
+* The search function is not yet implemented.
 
 This initial beta period is primarily to receive feedback on the overall design direction. We appreciate any thoughts you have on the work so far.
 
