@@ -1,52 +1,33 @@
-# Internet Society Beta Site
-The Internet Society is developing a new website and is running a public open "beta" site visible to all at:
+# Internet Society Web Site
+The Internet Society has launched a new website at:
 
-https://beta.internetsociety.org/
+https://www.internetsociety.org/
 
-**IF YOU HAVE FEEDBACK ABOUT THE BETA SITE** please review the instructions below and then open a comment here:
+**IF YOU HAVE FEEDBACK ABOUT THE NEW SITE** please review the instructions below and then open a comment here:
 
-https://github.com/InternetSociety/beta-site-feedback/issues
+https://github.com/InternetSociety/www-site-feedback/issues
 
-You will need a (free) Github account in order to create an "issue" or respond to other issues. [You can create an account on Github](https://github.com/join) or sign in with your existing Github account. If there is some reason you cannot create an account, please email your feedback about the beta site to Dan York at [york@isoc.org](mailto:york@isoc.org).
-
-Please be aware that the beta site will be going through a series of development phases and that we will be seeking different types of feedback at different times. Updates will be made on a regular basis from the beta launch in June 2017 until the production launch targeted for September 2017.
-
-## Initial Beta Period - June 4, 2017
-
-In the initial "early beta" phase of the launch, we are providing a view of the new website design and the overall look-and-feel. **Most of the site is INCOMPLETE** and so *most links will not work* and many pages are missing. 
+You will need a (free) Github account in order to create an "issue" or respond to other issues. [You can create an account on Github](https://github.com/join) or sign in with your existing Github account. If there is some reason you cannot create an account, please email your feedback about the web site to Dan York at [york@isoc.org](mailto:york@isoc.org).
 
 The feedback we seek right now includes questions such as:
 
 * Does the overall design work for you in your region?
 * Do you have any comments about what you see so far?
 
-Many technical aspects of the site will be changing as will much of the content. 
-
+With the migration of such a massive site as ours, there are inevitably a range of issues after the launch of the new site.
 Known issues include:
 
-* Most links do not work.
-* Many more pages need to be added.
-* The URL structure will change.
-* The items in the menus will change slightly as we adjust them.
-* Images have not yet been optimized for low-bandwidth connections.
-* The mobile interfaces need further development.
-* Accessibility testing has not yet been performed.
-* Social media sharing icons do not appear on the left side of pages. (They will!)
-* The filtering function on the news page is not yet implemented.
-* The search function is not yet implemented.
+* There are still broken links pointing to older content. We are working through our list changing links and setting up redirections.
+    * This is unfortunately true in particular for the Deploy360 site where had some import challenges that broke a number of the links.
+* We are still in the process of migrating some content from the old site, including:
+    * Older Board of Trustees minutes, agenda and meeting notices.
+    * Past Beyond The Net grant recipients.
+    * A couple of our online tutorials.
+    * Internet Governance timeline (/igtimeline)
+    * History of the Internet Society
+* The Spanish and French versions of the site still need some pages translated from English. 
+* The donation form and several other registration forms are hosted on a separate site.
 
-This initial beta period is primarily to receive feedback on the overall design direction. We appreciate any thoughts you have on the work so far.
-
-## Future Beta Periods
-
-Over the next weeks and months we will be creating the new content and migrating content from the existing Internet Society website. There will be additional points at which we will be seeking feedback, including:
-
-* **ACCESSIBILITY TESTING** - our site is planned to meet WCAG 2.0 AA accessibility guidelines. When ready, we will be seeking testing/feedback on the work we have done.
-
-* **BANDWIDTH TESTING** - we are targeting the site to work over mobile devices on 3G connections. At a point in the development we will be seeking people to help us test how well it works on lower-bandwidth connections.
-
-* **MULTILINGUAL TESTING** - later in July or August we will be bringing on the French and Spanish versions of the site. We will be seeking feedback from the community about how well those versions work in their regions.
-
-We will provide updates over the next weeks and months and will let you know when specific feedback is requested.
+All those issues and many more are currently being worked on by the ISOC website editorial team.
 
 We welcome all your feedback as we engage in this exciting project of defining a new ISOC website!
