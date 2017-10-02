@@ -5,7 +5,7 @@ https://www.internetsociety.org/
 
 **IF YOU HAVE FEEDBACK ABOUT THE NEW SITE** please review the instructions below and then open a comment here:
 
-https://github.com/InternetSociety/www-site-feedback/issues
+https://github.com/InternetSociety/web-site-feedback/issues
 
 You will need a (free) Github account in order to create an "issue" or respond to other issues. [You can create an account on Github](https://github.com/join) or sign in with your existing Github account. If there is some reason you cannot create an account, please email your feedback about the web site to Dan York at [york@isoc.org](mailto:york@isoc.org).
 
